@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BlackkBeardd
-- 👀 I’m interested in full stack development, machine learning and artificial intelligence 
-- 🌱 I’m currently learning full stack development 
+- 👀 I’m interested in robotics and artificial intelligence 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
