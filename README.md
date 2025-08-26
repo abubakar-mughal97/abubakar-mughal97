@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @BlackkBeardd
-- 👀 I’m interested in robotics and artificial intelligence 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Abubakar Mughal
 
-<!---
-BlackkBeardd/BlackkBeardd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Robotics enthusiast passionate about building intelligent systems and exploring AI for real-world robots.  
+I love tinkering, experimenting in simulations, and turning ideas into working machines.
